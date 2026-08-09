@@ -1,0 +1,26 @@
+schema_version: 1
+
+project_id: asf-risk
+subproject_id: asf-gbrts
+
+title: Sensitivity to Epidemiological Traits of ASF Strains
+summary: >
+  Spatial transmission dynamics of African Swine Fever in wild pigs: Sensitivity to epidemiological traits of different viral strains.
+
+lead:
+  name: Madion Berger
+  github: MadisonB14
+
+status: paused
+current_focus: Manuscript in review. Modifications pending reviewer comments.
+
+repository:
+  canonical: geoepi/ASF-GBRTs
+  upstream: null
+
+compute:
+  - Atlas
+
+next_milestone:
+  description: Pending reviewer comments
+  target: 2025-10-01
